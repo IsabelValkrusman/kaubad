@@ -1,0 +1,28 @@
+
+div#sisu{
+    padding: 30px;
+    background-color: lightcyan;
+    float:left;
+    top:150px;
+    left:350px;
+    position: absolute;
+}
+div#sisu1{
+    padding: 30px;
+    background-color: lightcyan;
+    float:left;
+
+    top:250px;
+    position: absolute;
+}
+div#sisu2{
+    padding: 30px;
+    background-color: lightcyan;
+    float:left;
+
+    top:10px;
+    position: absolute;
+}
+/*img{
+    width:200px;
+}*/
